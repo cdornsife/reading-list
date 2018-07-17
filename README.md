@@ -1,7 +1,14 @@
-# reading-list
 Books I have listened to or read. (since 2015)
 
 ### 2018
+*David Copperfield*  
+Charles Dickens  
+36h 36m  
+
+*Unfu\*k Yourself*  
+Gary John Bishop  
+3h 23m  
+
 *All These Worlds: Bobiverse, Book 3*  
 Dennis E. Taylor  
 7h 55m  
