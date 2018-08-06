@@ -1,6 +1,10 @@
 Books I have listened to or read. (since 2015)
 
 ### 2018
+*The Hitchhiker's Guide to the Galaxy*
+Douglas Adams
+5h 51m
+
 *David Copperfield*  
 Charles Dickens  
 36h 36m  
