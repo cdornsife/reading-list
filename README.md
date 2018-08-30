@@ -1,6 +1,10 @@
 Books I have listened to or read. (since 2015)
 
 ### 2018
+*1984: New Classic Edition*  
+George Orwell  
+11h 22m  
+
 *The Hitchhiker's Guide to the Galaxy*  
 Douglas Adams  
 5h 51m  
