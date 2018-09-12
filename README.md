@@ -1,6 +1,18 @@
 Books I have listened to or read. (since 2015)
 
 ### 2018
+*Stoicism: 3 in 1: A Complete Guide to the Stoic Philosophy and the Stoic Way of Life*  
+Garry Hudson  
+8h 30m  
+
+*Animal Farm*  
+George Orwell  
+3h 13m  
+
+*The Three-Body Problem*  
+Cixin Liu  
+13h 26m  
+
 *1984: New Classic Edition*  
 George Orwell  
 11h 22m  
