@@ -1,6 +1,22 @@
 Books I have listened to or read. (since 2015)
 
 ### 2018
+*Great Expectations*  
+Charles Dickens  
+18h 32m  
+
+*The Subtle Art of Not Giving a F\*ck*  
+Mark Manson  
+5 hrs and 30 mins  
+
+*Unfu\*k Yourself*  
+Gary John Bishop  
+3h 23m  
+
+*INSPIRED: How to Create Tech Products Customers Love*  
+Marty Cagan  
+Hardcover  
+
 *Stoicism: 3 in 1: A Complete Guide to the Stoic Philosophy and the Stoic Way of Life*  
 Garry Hudson  
 8h 30m  
