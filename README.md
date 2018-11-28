@@ -1,6 +1,14 @@
 Books I have listened to or read. (since 2015)
 
 ### 2018
+*A Farewell to Arms*  
+Ernest Hemingway  
+8h 33m  
+
+*The Picture of Dorian Gray*  
+Oscar Wilde  
+7h 44m  
+
 *Great Expectations*  
 Charles Dickens  
 18h 32m  
