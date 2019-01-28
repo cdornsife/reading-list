@@ -1,5 +1,10 @@
 Books I have listened to or read. (since 2015)
 
+### 2019
+*Wuthering Heights*
+Emily Bronte  
+13h 8m  
+
 ### 2018
 *A Farewell to Arms*  
 Ernest Hemingway  
@@ -8,6 +13,10 @@ Ernest Hemingway
 *The Picture of Dorian Gray*  
 Oscar Wilde  
 7h 44m  
+
+*Lolita*
+Vladimir Nabokov  
+11h 28m  
 
 *Great Expectations*  
 Charles Dickens  
