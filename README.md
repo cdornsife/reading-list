@@ -1,6 +1,15 @@
 Books I have listened to or read. (since 2015)
 
 ### 2019
+
+*The Complete Stories of Anton Chekhov, Vol. 1: 1882–1885*  
+Anton Chekhov  
+7h 42m  
+
+*How Brands Grow: What Marketers Don't Know*  
+Byron Sharp  
+6h 34m  
+
 *Wuthering Heights*  
 Emily Bronte  
 13h 8m  
