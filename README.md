@@ -2,6 +2,11 @@ Books I have listened to or read. (since 2015)
 
 ### 2019
 
+*Ham on Rye: A Novel*  
+Charles Bukowski  
+7h 38m  
+
+
 *The Complete Stories of Anton Chekhov, Vol. 1: 1882–1885*  
 Anton Chekhov  
 7h 42m  
