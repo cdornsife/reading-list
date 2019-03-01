@@ -2,6 +2,10 @@ Books I have listened to or read. (since 2015)
 
 ### 2019
 
+*On Writing: A Memoir of the Craft*  
+Stephen King  
+8h  
+
 *Ham on Rye: A Novel*  
 Charles Bukowski  
 7h 38m  
