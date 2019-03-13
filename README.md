@@ -2,6 +2,10 @@ Books I have listened to or read. (since 2015)
 
 ### 2019
 
+*The Complete Stories of Anton Chekhov, Vol. 2: 1886*  
+Anton Chekhov  
+15h 11m  
+
 *Lullaby*  
 Chuck Palahniuk  
 7h 15m  
