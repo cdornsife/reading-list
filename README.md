@@ -2,9 +2,25 @@ Books I have listened to or read. (since 2015)
 
 ### 2019
 
+*Lullaby*  
+Chuck Palahniuk  
+7h 15m  
+
+*Fahrenheit 451*  
+Ray Bradbury  
+5h 1m  
+
+*Invisible Monsters*  
+Chuck Palahniuk  
+5h 56m  
+
 *On Writing: A Memoir of the Craft*  
 Stephen King  
 8h  
+
+*Survivor*  
+Chuck Palahniuk  
+7h 55m  
 
 *Ham on Rye: A Novel*  
 Charles Bukowski  
