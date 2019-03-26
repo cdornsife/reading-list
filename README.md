@@ -221,6 +221,10 @@ Jack London
 Dennis E. Taylor  
 9 hrs and 30 mins  
 
+*Ready Player One*  
+Ernest Cline  
+15 hrs and 40 mins
+
 ### 2016
 *Les Misérables*  
 Victor Hugo  
