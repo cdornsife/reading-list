@@ -2,6 +2,10 @@ Books I have listened to or read. (since 2015)
 
 ### 2019
 
+*Dune*  
+Frank Herbert  
+21h 2m  
+
 *The Complete Stories of Anton Chekhov, Vol. 2: 1886*  
 Anton Chekhov  
 15h 11m  
@@ -310,7 +314,7 @@ Christopher Moore
 Kurt Vonnegut  
 9 hrs and 20 mins  
 
-*Crime and Punishment*  
+*Crime and Punishment*   
 Fyodor Dostoyevsky  
 22 hrs and 6 mins  
 
