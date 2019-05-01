@@ -2,6 +2,14 @@ Books I have listened to or read. (since 2015)
 
 ### 2019
 
+*The Stars My Destination*  
+Alfred Bester  
+8h 27m  
+
+*Dune Messiah*  
+Frank Herbert  
+8h 57m  
+
 *Dune*  
 Frank Herbert  
 21h 2m  
