@@ -2,6 +2,10 @@ Books I have listened to or read. (since 2015)
 
 ### 2019
 
+*Harry Potter and the Sorcerer's Stone, Book 1*  
+J.K. Rowling  
+8h 33m  
+
 *The Stars My Destination*  
 Alfred Bester  
 8h 27m  
