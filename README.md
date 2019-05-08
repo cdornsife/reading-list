@@ -1,8 +1,8 @@
 Books I have listened to or read. (since 2015)
 
 ### 2019
-| Title        | Author  | Length |
-|--------------|---------|--------|
+| Title | Author  | Length |
+|-------|---------|--------|
 |*Harry Potter and the Sorcerer's Stone, Book 1*|J.K. Rowling|8h 33m|
 |*The Stars My Destination*|Alfred Bester|8h 27m|
 |*Dune Messiah*|Frank Herbert|8h 57m|
@@ -14,13 +14,13 @@ Books I have listened to or read. (since 2015)
 |*On Writing: A Memoir of the Craft*|Stephen King|8h|
 |*Survivor*|Chuck Palahniuk|7h 55m|
 |*Ham on Rye: A Novel*|Charles Bukowski|7h 38m|
-
 |*The Complete Stories of Anton Chekhov, Vol. 1: 1882–1885*|Anton Chekhov|7h 42m|
 |*How Brands Grow: What Marketers Don't Know*|Byron Sharp|6h 34m|
 |*Wuthering Heights*|Emily Bronte|13h 8m|
+
 ### 2018
-| Title        | Author  | Length |
-|--------------|---------|--------|
+| Title | Author  | Length |
+|-------|---------|--------|
 |*A Farewell to Arms*|Ernest Hemingway|8h 33m|
 |*The Picture of Dorian Gray*|Oscar Wilde|7h 44m|
 |*Lolita*|Vladimir Nabokov|11h 28m|
@@ -28,7 +28,7 @@ Books I have listened to or read. (since 2015)
 |*The Subtle Art of Not Giving a F\*ck*|Mark Manson|5 hrs and 30 mins|
 |*Unfu\*k Yourself*|Gary John Bishop|3h 23m|
 |*INSPIRED: How to Create Tech Products Customers Love*|Marty Cagan|Hardcover|
-|*Stoicism: 3 in 1: A Complete Guide to the Stoic Philosophy and the Stoic Way of Life*|Garry Hudson|8h 30m|
+|*Stoicism: 3 in 1: A Complete Guide to the Stoic<br/>Philosophy and the Stoic Way of Life*|Garry Hudson|8h 30m|
 |*Animal Farm*|George Orwell|3h 13m|
 |*The Three-Body Problem*|Cixin Liu|13h 26m|
 |*1984: New Classic Edition*|George Orwell|11h 22m|
@@ -40,21 +40,22 @@ Books I have listened to or read. (since 2015)
 |*The Old Man and the Sea*|Ernest Hemingway|2h 30m|
 |*The Sound and the Fury*|William Faulkner|8 hrs and 57 mins|
 |*The Master and Margarita*|Mikhail Bulgakov|16 hrs and 51 mins|
-|*Finding Ultra: Rejecting Middle Age, Becoming One of the World’s Fittest Men, and Discovering Myself*|Rich Roll|9 hrs and 47 mins|
+|*Finding Ultra:  Rejecting Middle Age, <br/>Becoming One of the World’s Fittest Men,  and Discovering Myself*|Rich Roll|9 hrs and 47 mins|
 |*Oliver Twist*|Charles Dickens|14 hrs and 55 mins|
 |*Ulysses*|James Joyce|42 hrs and 23 mins|
 |*Robinson Crusoe*|Daniel Defoe|10 hrs and 10 mins|
+
 ### 2017
-| Title        | Author  | Length |
-|--------------|---------|--------|
-|*Draft Animals: Living the Pro Cycling Dream (Once in a While)*|Phil Gaimon|7 hrs and 55 mins|
-|*How Bad Do You Want It?: Mastering the Psychology of Mind over Muscle*|Matt Fitzgerald|8 hrs and 29 mins|
-|*The Girl Who Kicked the Hornet’s Nest: The Millennium Series, Book 3*|Stieg Larsson|20 hrs and 20 mins|
+| Title | Author  | Length |
+|-------|---------|--------|
+|*Draft Animals:  Living the Pro Cycling Dream (Once in a While)*|Phil Gaimon|7 hrs and 55 mins|
+|*How Bad Do You Want It?:  Mastering the Psychology of Mind over Muscle*|Matt Fitzgerald|8 hrs and 29 mins|
+|*The Girl Who Kicked the Hornet’s Nest:  The Millennium Series, Book 3*|Stieg Larsson|20 hrs and 20 mins|
 |*One Hundred Years of Solitude*|Gabriel García Márquez|14 hrs and 4 mins|
-|*Evolve Your Brain: The Science of Changing Your Mind*|Joe Dispenza D.C.|18 hrs and 43 mins|
-|*Pro Cycling on $10 a Day: From Fat Kid to Euro Pro*|Phil Gaimon|8 hrs and 29 mins|
-|*The Girl Who Played with Fire: The Millennium Series, Book 2*|Stieg Larsson|18 hrs and 38 mins|
-|*The Rules: The Way of the Cycling Disciple*|The Velominati, Greg LeMond (foreward)|5 hrs and 59 mins|
+|*Evolve Your Brain:  The Science of Changing Your Mind*|Joe Dispenza D.C.|18 hrs and 43 mins|
+|*Pro Cycling on $10 a Day:  From Fat Kid to Euro Pro*|Phil Gaimon|8 hrs and 29 mins|
+|*The Girl Who Played with Fire:  The Millennium Series, Book 2*|Stieg Larsson|18 hrs and 38 mins|
+|*The Rules:  The Way of the Cycling Disciple*|The Velominati, Greg LeMond (foreward)|5 hrs and 59 mins|
 |*The Trial*|Franz Kafka|8 hrs and 58 mins|
 |*Frankenstein*|*Mary Shelley|8 hrs and 35 mins|
 |*The Girl with the Dragon Tattoo: The Millennium Series, Book 1*|Stieg Larsson|16 hrs and 19 mins|
@@ -71,8 +72,8 @@ Books I have listened to or read. (since 2015)
 |*Ready Player One*|Ernest Cline|15 hrs and 40 mins
 
 ### 2016
-| Title        | Author  | Length |
-|--------------|---------|--------|
+| Title | Author  | Length |
+|-------|---------|--------|
 |*Les Misérables*|Victor Hugo|67 hrs and 52 mins|
 |*The Subtle Art of Not Giving a F\*ck*|Mark Manson|5 hrs and 30 mins|
 |*Zen and the Art of Motorcycle Maintenance*|Robert M. Pirsig|15 hrs and 58 mins|
@@ -92,11 +93,11 @@ Books I have listened to or read. (since 2015)
 |*The Three Musketeers*|Alexandre Dumas|26 hrs and 7 mins|
 |*The Death of Ivan Ilych*|Leo Tolstoy|2 hrs and 38 mins|
 |*Jailbird*|Kurt Vonnegut|8 hrs and 44 mins|
-|*Lamb: The Gospel According to Biff, Christ’s Childhood Pal*|Christopher Moore|15 hrs and 20 mins|
+|*Lamb: The Gospel According to Biff,  Christ’s Childhood Pal*|Christopher Moore|15 hrs and 20 mins|
 |*The Sirens of Titan*|Kurt Vonnegut|9 hrs and 20 mins|
 |*Crime and Punishment* |Fyodor Dostoyevsky|22 hrs and 6 mins|
 |*Speak: So Your Audience Will Listen*|Robin Kermode|4 hrs and 33 mins|
-|*How to Stop Worrying and Start Living: Time-Tested Methods for Conquering Worry*|Dale Carnegie|10 hrs and 11 mins|
+|*How to Stop Worrying and Start Living:  Time-Tested Methods for Conquering Worry*|Dale Carnegie|10 hrs and 11 mins|
 |*Don Quixote: Part One and Two*|Miguel de Cervantes, Edith Grossman (translator)|39 hrs and 42 mins|
 |*How to Win Friends & Influence People*|Dale Carnegie|7 hrs and 19 mins|
 |*To Kill a Mockingbird*|Harper Lee|12 hrs and 17 mins|
@@ -105,6 +106,7 @@ Books I have listened to or read. (since 2015)
 |*The Brothers Karamazov*
 Fyodor Dostoyevsky|37 hrs and 8 mins|
 |*A Short History of Nearly Everything*|Bill Bryson|17 hrs and 48 mins|
+
 ### 2015
 | Title        | Author  | Length |
 |--------------|---------|--------|
