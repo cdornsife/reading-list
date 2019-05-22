@@ -103,8 +103,7 @@ Books I have listened to or read. (since 2015)
 |*To Kill a Mockingbird*|Harper Lee|12 hrs and 17 mins|
 |*The Count of Monte Cristo*|Alexandre Dumas|52 hrs and 45 mins|
 |*Master and Commander: Aubrey/Maturin Series, Book 1*|Patrick O’Brian|16 hrs and 39 mins|
-|*The Brothers Karamazov*
-Fyodor Dostoyevsky|37 hrs and 8 mins|
+|*The Brothers Karamazov*|Fyodor Dostoyevsky|37 hrs and 8 mins|
 |*A Short History of Nearly Everything*|Bill Bryson|17 hrs and 48 mins|
 
 ### 2015
