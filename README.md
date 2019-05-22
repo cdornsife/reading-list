@@ -3,6 +3,7 @@ Books I have listened to or read. (since 2015)
 ### 2019
 | Title | Author  | Length |
 |-------|---------|--------|
+|*The Hunchback of Notre Dame*|Victor Hugo|22h 28m|
 |*Harry Potter and the Sorcerer's Stone, Book 1*|J.K. Rowling|8h 33m|
 |*The Stars My Destination*|Alfred Bester|8h 27m|
 |*Dune Messiah*|Frank Herbert|8h 57m|
