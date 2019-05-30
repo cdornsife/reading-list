@@ -80,7 +80,7 @@ Books I have listened to or read. (since 2015)
 |*Zen and the Art of Motorcycle Maintenance*|Robert M. Pirsig|15 hrs and 58 mins|
 |*Legacy of Ashes: The History of the CIA*|Tim Weiner|21 hrs and 36 mins|
 |*The Great Gatsby*|F. Scott Fitzgerald|4 hrs and 52 mins|
-|*The Idiot*|Fyodor Dostoevsky|22 hrs and 33 mins|
+|*The Idiot*|Fyodor Dostoyevsky|22 hrs and 33 mins|
 |*Anna Karenina*|Leo Tolstoy|38 hrs and 5 mins|
 |*A Beginner’s Guide to Investing*|Alex H. Frey|2 hrs and 19 mins
 |*Bluebeard*|Kurt Vonnegut|7 hrs and 19 mins|
