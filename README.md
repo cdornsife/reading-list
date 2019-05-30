@@ -3,6 +3,7 @@ Books I have listened to or read. (since 2015)
 ### 2019
 | Title | Author  | Length |
 |-------|---------|--------|
+|*Son of the Black Sword:<br/>Saga of the Forgotten Warrior, Book 1*|Larry Correia|16h 21m|
 |*The Hunchback of Notre Dame*|Victor Hugo|22h 28m|
 |*Harry Potter and the Sorcerer's Stone, Book 1*|J.K. Rowling|8h 33m|
 |*The Stars My Destination*|Alfred Bester|8h 27m|
