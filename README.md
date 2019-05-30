@@ -51,15 +51,15 @@ Books I have listened to or read. (since 2015)
 |-------|---------|--------|
 |*Draft Animals:  Living the Pro Cycling Dream (Once in a While)*|Phil Gaimon|7h 55m|
 |*How Bad Do You Want It?:  Mastering the Psychology of Mind over Muscle*|Matt Fitzgerald|8h 29m|
-|*The Girl Who Kicked the Hornet’s Nest:  The Millennium Series, Book 3*|Stieg Larsson|20h 20m|
+|*The Girl Who Kicked the Hornet’s Nest:<br/>The Millennium Series, Book 3*|Stieg Larsson|20h 20m|
 |*One Hundred Years of Solitude*|Gabriel García Márquez|14h 4m|
 |*Evolve Your Brain:  The Science of Changing Your Mind*|Joe Dispenza D.C.|18h 43m|
 |*Pro Cycling on $10 a Day:  From Fat Kid to Euro Pro*|Phil Gaimon|8h 29m|
-|*The Girl Who Played with Fire:  The Millennium Series, Book 2*|Stieg Larsson|18h 38m|
+|*The Girl Who Played with Fire:<br/>The Millennium Series, Book 2*|Stieg Larsson|18h 38m|
 |*The Rules:  The Way of the Cycling Disciple*|The Velominati, Greg LeMond (foreward)|5h 59m|
 |*The Trial*|Franz Kafka|8h 58m|
 |*Frankenstein*|*Mary Shelley|8h 35m|
-|*The Girl with the Dragon Tattoo: The Millennium Series, Book 1*|Stieg Larsson|16h 19m|
+|*The Girl with the Dragon Tattoo:<br/>The Millennium Series, Book 1*|Stieg Larsson|16h 19m|
 |*Moby Dick*|Herman Melville|21h 20m|
 |*For We Are Many: Bobiverse, Book 2*|Dennis E. Taylor|8h 58m|
 |*Swann’s Way*|Marcel Proust|21h 35m|
@@ -94,11 +94,11 @@ Books I have listened to or read. (since 2015)
 |*The Three Musketeers*|Alexandre Dumas|26h 7m|
 |*The Death of Ivan Ilych*|Leo Tolstoy|2h 38m|
 |*Jailbird*|Kurt Vonnegut|8h 44m|
-|*Lamb: The Gospel According to Biff,  Christ’s Childhood Pal*|Christopher Moore|15h 20m|
+|*Lamb: The Gospel According to Biff,<br/>Christ’s Childhood Pal*|Christopher Moore|15h 20m|
 |*The Sirens of Titan*|Kurt Vonnegut|9h 20m|
 |*Crime and Punishment* |Fyodor Dostoyevsky|22h 6m|
 |*Speak: So Your Audience Will Listen*|Robin Kermode|4h 33m|
-|*How to Stop Worrying and Start Living:  Time-Tested Methods for Conquering Worry*|Dale Carnegie|10h 11m|
+|*How to Stop Worrying and Start Living:<br/>Time-Tested Methods for Conquering Worry*|Dale Carnegie|10h 11m|
 |*Don Quixote: Part One and Two*|Miguel de Cervantes, Edith Grossman (translator)|39h 42m|
 |*How to Win Friends & Influence People*|Dale Carnegie|7h 19m|
 |*To Kill a Mockingbird*|Harper Lee|12h 17m|
