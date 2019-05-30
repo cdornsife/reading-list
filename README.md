@@ -50,13 +50,13 @@ Books I have listened to or read. (since 2015)
 | Title | Author  | Length |
 |-------|---------|--------|
 |*Draft Animals:  Living the Pro Cycling Dream (Once in a While)*|Phil Gaimon|7h 55m|
-|*How Bad Do You Want It?:  Mastering the Psychology of Mind over Muscle*|Matt Fitzgerald|8h 29m|
+|*How Bad Do You Want It?:<br/>Mastering the Psychology of Mind over Muscle*|Matt Fitzgerald|8h 29m|
 |*The Girl Who Kicked the Hornet’s Nest:<br/>The Millennium Series, Book 3*|Stieg Larsson|20h 20m|
 |*One Hundred Years of Solitude*|Gabriel García Márquez|14h 4m|
 |*Evolve Your Brain:  The Science of Changing Your Mind*|Joe Dispenza D.C.|18h 43m|
 |*Pro Cycling on $10 a Day:  From Fat Kid to Euro Pro*|Phil Gaimon|8h 29m|
 |*The Girl Who Played with Fire:<br/>The Millennium Series, Book 2*|Stieg Larsson|18h 38m|
-|*The Rules:  The Way of the Cycling Disciple*|The Velominati, Greg LeMond (foreward)|5h 59m|
+|*The Rules:  The Way of the Cycling Disciple*|The Velominati,<br/>Greg LeMond (foreward)|5h 59m|
 |*The Trial*|Franz Kafka|8h 58m|
 |*Frankenstein*|*Mary Shelley|8h 35m|
 |*The Girl with the Dragon Tattoo:<br/>The Millennium Series, Book 1*|Stieg Larsson|16h 19m|
@@ -88,7 +88,7 @@ Books I have listened to or read. (since 2015)
 |*Breakfast of Champions*|Kurt Vonnegut|6h 27m|
 |*Slaughterhouse-Five*|Kurt Vonnegut|5h 13m|
 |*Crucial Conversations*|Kerry Patterson|6h 27m|
-|*Stand and Deliver*|The Dale Carnegie Organization|4h 58m|
+|*Stand and Deliver*|Dale Carnegie|4h 58m|
 |*The Autobiography of Benjamin Franklin*|Benjamin Franklin|6h 35m|
 |*Fear and Loathing in Las Vegas*|Hunter S. Thompson|6h|
 |*The Three Musketeers*|Alexandre Dumas|26h 7m|
@@ -99,7 +99,7 @@ Books I have listened to or read. (since 2015)
 |*Crime and Punishment* |Fyodor Dostoyevsky|22h 6m|
 |*Speak: So Your Audience Will Listen*|Robin Kermode|4h 33m|
 |*How to Stop Worrying and Start Living:<br/>Time-Tested Methods for Conquering Worry*|Dale Carnegie|10h 11m|
-|*Don Quixote: Part One and Two*|Miguel de Cervantes, Edith Grossman (translator)|39h 42m|
+|*Don Quixote: Part One and Two*|Miguel de Cervantes,<br/>Edith Grossman(translator)|39h 42m|
 |*How to Win Friends & Influence People*|Dale Carnegie|7h 19m|
 |*To Kill a Mockingbird*|Harper Lee|12h 17m|
 |*The Count of Monte Cristo*|Alexandre Dumas|52h 45m|
