@@ -3,6 +3,7 @@ Books I have listened to or read. (since 2015)
 ### 2019
 | Title | Author  | Length |
 |-------|---------|--------|
+|*Post Office: A Novel*|Charles Bukowski|4h 32m|
 |*Gravity's Rainbow*|Thomas Pynchon|37h 21m|
 |*Dracula [Audible Edition]*|Bram Stoker|15h 28m|
 |*Homer Box Set: Iliad & Odyssey*|Homer<br/>W. H. D. Rouse - translator|25h 2m|
