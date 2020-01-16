@@ -1,5 +1,12 @@
 Books I have listened to or read. (since 2015)
 
+### 2020
+| Title | Author  | Length |
+|-------|---------|--------|
+|*Atomic Habits:<br/>An Easy & Proven Way to Build Good Habits & Break Bad Ones*|James Clear|5h 35m|
+|*The E-Myth Revisited:<br/>Why Most Small Businesses Don't Work and What to Do About It*|Michael E. Gerber|8h 5m|
+
+
 ### 2019
 | Title | Author  | Length |
 |-------|---------|--------|
