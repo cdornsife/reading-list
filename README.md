@@ -3,6 +3,8 @@ Books I have listened to or read. (since 2015)
 ### 2020
 | Title | Author  | Length |
 |-------|---------|--------|
+|*Bulgakov: A Dog's Heart*|Mikhail Bulgakov|3h 44m|
+|*The Year of the Flood*|Margaret Atwood|14h 4m|
 |*On the Road: 50th Anniversary Edition*|Jack Kerouac|11h 8m|
 |*The Invisible Man*|H. G. Wells|5h 19m|
 |*Atomic Habits:<br/>An Easy & Proven Way to Build Good Habits & Break Bad Ones*|James Clear|5h 35m|
