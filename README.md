@@ -3,7 +3,9 @@ Books I have listened to or read. (since 2015)
 ### 2020
 | Title | Author  | Length |
 |-------|---------|--------|
-|*The Confidence Gap: <br/>A Guide to Overcoming Fear and Self-Doubt*|Russ Harris|7h 39m|
+|*East of Eden*|John Steinbeck|25h 23m| 
+|*Leviathan Wakes*|James S. A. Corey|20h 56m| 
+|*The Confidence Gap: <br/>A Guide to Overcoming Fear and Self-Doubt*|Russ Harris|7h 39m| 
 |*Invisible Man: A Novel*|Ralph Ellison|18h 36m|
 |*Bulgakov: A Dog's Heart*|Mikhail Bulgakov|3h 44m|
 |*The Year of the Flood*|Margaret Atwood|14h 4m|
